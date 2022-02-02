@@ -1,4 +1,5 @@
 # Connect-AzAccount
+##
 
 $rg='storage-rg2'
 New-AzResourceGroup -Name $rg -Location "central india" -Force
